@@ -25,7 +25,7 @@ u//═════════════════════════�
 //*
 //Base by peksha rasanjana
 //GitHub: @𝐏ⓞ𝐃𝐈𝐘𝐀-𝗫𝗥
-//WhatsApp: +94740707157
+//WhatsApp: +94758775628
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
 //   * Created By GitHub: 𝐏ⓞ𝐃𝐈𝐘𝐀-𝗫𝗥
 //   * Credit To peksha rasanjana
