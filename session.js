@@ -43,5 +43,5 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~aEFD2Sab#YfQnBH2d6Jx3QgmuT1eSuTcyh3JCG3ZedhBm7nWRdpI",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. Rashmika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
+FOOTER: process.env.FOOTER || "> PODIYA-XR @PRO\n> Developed by Mr. Peksha\n> GitHub Repository: github.com/peksharasanjana/PODIYA-XR @PRO\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 PODIYA-XR_@PRO. All rights reserved.our whatsapp channel:https://whatsapp.com/channel/0029Vaf6ZWsHrDZhvE0FZZ0S",
 };
